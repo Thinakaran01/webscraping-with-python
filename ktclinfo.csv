@@ -1,0 +1,15 @@
+Bus_name,Bus_type,Departing_time,Duration,Reaching_time,Star_rating,Price,Seat_availability
+Ashray Travels,Non A/C Seater / Sleeper (2+1),23:00,09h 50m,08:50,4.3,INR 1000,1 Seat available
+Ashray Grand,Volvo Multi-Axle A/C Sleeper (2+1),23:00,11h 00m,10:00,4.2,INR 2050,2 Seats available
+IntrCity SmartBus,Bharat Benz A/C Sleeper (2+1),22:45,10h 50m,09:35,4.2,INR 979,1 Seat available
+Gogte Travels,A/C Sleeper (2+1),23:15,07h 45m,07:00,4.3,INR 1109,1 Seat available
+Zingbus Plus,Bharat Benz A/C Sleeper (2+1),22:50,12h 05m,10:55,4.4,1170,3 Seats available
+Shivrameshwar Bane Tours & Travels,A/C Sleeper (2+1),23:40,10h 35m,10:15,4.0,INR 5000,30 Seats available
+Abhishek Vishal Travels,A/C Sleeper (2+1),22:55,11h 00m,09:55,3.2,INR 900,1 Seat available
+Laxmi Queen Prime,A/C Sleeper (2+1),23:45,07h 45m,07:30,3.8,INR 1100,2 Seats available
+Gogte Travels,A/C Sleeper (2+1),23:15,08h 30m,07:45,3.9,INR 1109,1 Seat available
+PVS Tours and Travels,A/C Sleeper (2+1),23:30,10h 45m,10:15,2.9,INR 1000,11 Seats available
+Manish Travel,A/C Sleeper (2+1),23:30,10h 29m,09:59,2.3,INR 1000,6 Seats available
+Hans Travels (I) Private Limited,A/C Sleeper (2+1),23:44,12h 30m,12:14,2.0,INR 1200,5 Seats available
+VRL Travels,A/C Sleeper (2+1),23:30,10h 15m,09:45,2.7,INR 1200,3 Seats available
+Gujarat Travels,A/C Sleeper (2+1),22:55,11h 45m,10:40,2.6,INR 1100,17 Seats available

@@ -1,0 +1,22 @@
+Bus_name,Bus_type,Departing_time,Duration,Reaching_time,Star_rating,Price,Seat_availability
+Madhavi Travels,A/C Sleeper (2+1),22:20,02h 50m,01:10,4.0,999,2 Seats available
+EMERALD TRAVELS,A/C Sleeper (2+1),22:20,02h 10m,00:30,3.0,INR 1000,20 Seats available
+BLM Transports,A/C Sleeper (2+1),22:30,02h 30m,01:00,3.9,891,1 Seat available
+Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),22:45,02h 25m,01:10,3.0,INR 700,11 Seats available
+Madhavi Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:30,02h 25m,01:55,4.0,749,17 Seats available
+Madhavi Travels,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:30,01h 40m,01:10,4.0,INR 749,6 Seats available
+Madhavi Travels,A/C Sleeper (2+1),23:40,03h 10m,02:50,4.0,799,9 Seats available
+UFO Bus,A/C Sleeper (2+1),23:55,03h 35m,03:30,4.1,799,9 Seats available
+UFO Bus,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),23:55,03h 35m,03:30,4.1,650,21 Seats available
+A1 Travels,Bharat Benz A/C Sleeper (2+1),23:30,02h 00m,01:30,3.3,INR 900,20 Seats available
+UFO Bus,A/C Sleeper (2+1),23:55,03h 35m,03:30,4.1,INR 888,36 Seats available
+Kalpaka Travels 1,A/C Sleeper (2+1),23:59,03h 46m,03:45,4.0,INR 700,10 Seats available
+Arya Travels,A/C Sleeper (2+1),23:59,03h 16m,03:15,3.2,INR 745,13 Seats available
+SG Travels,Bharat Benz A/C Sleeper (2+1),23:59,03h 31m,03:30,4.7,INR 749,21 Seats available
+Cochin Bus,A/C Sleeper (2+1),23:59,03h 31m,03:30,3.9,INR 799,6 Seats available
+Cochin Bus,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),23:59,03h 31m,03:30,3.9,INR 667,7 Seats available
+Arya Travels,A/C Semi Sleeper (2+2),23:59,03h 16m,03:15,3.2,INR 499,20 Seats available
+Arya Travels,A/C Seater/Sleeper (2+1),23:59,03h 16m,03:15,3.2,INR 495,13 Seats available
+UFO Bus,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),00:20,03h 10m,03:30,4.1,INR 670,42 Seats available
+Aadithya Travels,A/C Seater/Sleeper (2+1),23:30,03h 30m,03:00,2.5,INR 500,17 Seats available
+CGR Tranz,Volvo AC Seater (2+2),23:59,03h 01m,03:00,New,INR 480,2 Seats available
